@@ -1,0 +1,4 @@
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\obj\Debug\net5.0\cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\obj\Debug\net5.0\cSharp.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\obj\Debug\net5.0\cSharp.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\obj\Debug\net5.0\cSharp.csproj.CoreCompileInputs.cache

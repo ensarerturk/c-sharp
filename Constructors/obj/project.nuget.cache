@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7Fopze6P5EwQqP9/WRa+LIpzycRhhYK/T+gPk0aybNWcclqxjcFeo397zAMGdQ5dukuZ/eqMwu2mrzQc6tjHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ensar\\OneDrive\\Masaüstü\\cSharp\\Constructors\\Constructors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ensar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
