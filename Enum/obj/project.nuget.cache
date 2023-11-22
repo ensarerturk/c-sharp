@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nW9RAD3ZzbLvsozjqWsOH60fHKDDWWu5gGAhC9xzR1QqqElj7NM5eBgtlMyg2SIYGob0nevFfa4JDzak570Jnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ensar\\OneDrive\\Masaüstü\\cSharp\\Enum\\Enum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ensar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
