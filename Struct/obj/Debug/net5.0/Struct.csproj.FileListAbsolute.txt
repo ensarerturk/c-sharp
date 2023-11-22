@@ -1,0 +1,15 @@
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\bin\Debug\net5.0\Struct.exe
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\bin\Debug\net5.0\Struct.deps.json
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\bin\Debug\net5.0\Struct.runtimeconfig.json
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\bin\Debug\net5.0\Struct.runtimeconfig.dev.json
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\bin\Debug\net5.0\Struct.dll
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\bin\Debug\net5.0\Struct.pdb
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\obj\Debug\net5.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\obj\Debug\net5.0\Struct.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\obj\Debug\net5.0\Struct.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\obj\Debug\net5.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\obj\Debug\net5.0\Struct.dll
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\obj\Debug\net5.0\refint\Struct.dll
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\obj\Debug\net5.0\Struct.pdb
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\obj\Debug\net5.0\Struct.genruntimeconfig.cache
+C:\Users\ensar\OneDrive\Masaüstü\cSharp\Struct\obj\Debug\net5.0\ref\Struct.dll
